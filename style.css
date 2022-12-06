@@ -24,7 +24,7 @@
     height: 50px;
     background-color: #3161e0;
     text-align: center;
-    line-height: 40px;
+    line-height: 50px;
     font-weight: bold;
     text-decoration: none;
     display: flex;
@@ -66,13 +66,54 @@
 }
 
 .show {
-    background-color: plum;
+    background-color: transparent;
     width: 700px;
     height: 300px;
-    border-color: black;
-    border-width: 1px;
-    border-style: dashed;
+ 
 }
+
+
+.button-download {
+border-radius: 25px;
+border-color: white;
+background-color: white;
+height: 40px;
+width: 200px;
+font-weight: bold;
+justify-content: center;
+line-height: 35px;
+
+
+}
+
+.button-open {
+    border-radius: 25px;
+    border-color: darkslategray;
+    background-color: darkslategray;
+    height: 40px;
+    width: 250px;
+    color: white;
+    font-weight: bold;
+    justify-content: center;
+    line-height: 35px;
+  
+}
+
+
+ h1 {
+     font-size: 48px;
+     font-weight: bold;
+     color: white;
+     text-align: center;
+ }
+
+ 
+ p {
+    color: white;
+    text-align: center;
+    padding: 35px;
+ }
+    
 
 .bg-white {
     background-color: white;
@@ -84,23 +125,32 @@
 }
 
 .description-left {
-    background-color: rgb(26, 151, 240);
-    border-color: black;
-    border-width: 1px;
-    border-style: dashed;
     width: 700px;
     height: 400px;
 }
 
 .image-right {
-    background-color: pink;
-    border-color: black;
-    border-width: 1px;
-    border-style: dashed;
-    width: 300px;
+    width: 200px;
     height: 400px;
 
 }
+
+
+.side-title {
+    color: black;
+    font-size: 30px;
+    text-align: left;
+    padding-top: 35px;
+}
+
+
+.side-paragraph {
+    color: black;
+    text-align: left;
+    padding: 0;
+    line-height: 18px;
+}
+
 
 .bg-grey {
     background-color: lightgrey;
