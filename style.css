@@ -55,13 +55,13 @@
  }
 
 .top {
-    background-color: blue;
-    height: 400px;
+    background-image: url(img/jumbo.png);
+    height: 500px;
     width: auto;
     display: flex;
     align-items: center;
     justify-content: center;
-    object-fit: contain;
+    background-size: 100%;
     
 }
 
