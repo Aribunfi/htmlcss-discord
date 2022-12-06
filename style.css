@@ -141,6 +141,17 @@ line-height: 35px;
     font-size: 30px;
     text-align: left;
     padding-top: 35px;
+    font-weight: bold;
+}
+
+.long-title {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    display: inline-block;
+    width: 100%;
+    text-align: initial;
+ 
 }
 
 
@@ -163,21 +174,16 @@ line-height: 35px;
 }
 
 .image-left {
-    background-color: pink;
-    border-color: black;
-    border-width: 1px;
-    border-style: dashed;
-    width: 300px;
+    width: 200px;
     height: 400px;
 }
 
 .description-right {
-    background-color: rgb(26, 151, 240);
-    border-color: black;
-    border-width: 1px;
-    border-style: dashed;
     width: 700px;
     height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .summary {
@@ -196,6 +202,7 @@ line-height: 35px;
     border-color: black;
     border-width: 1px;
     border-style: dashed;
+    display: block;
 }
 
 .footer-top {
