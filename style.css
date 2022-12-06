@@ -16,6 +16,7 @@
     height: 50px;
     background-color: #3161e0;
     padding: 10px;
+   
 }
 
 .link {
@@ -44,6 +45,7 @@
     text-align: center;
     border-radius: 25px;
     line-height: 35px;
+   
 }
 
  .access {
@@ -59,6 +61,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    object-fit: contain;
+    
 }
 
 .show {
