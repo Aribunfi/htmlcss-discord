@@ -1,0 +1,217 @@
+.container {
+    background-color: rgb(163, 210, 246);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-top {
+    line-height: 26px;
+}
+
+.logo {
+    border-color: black;
+    border-style: dashed;
+    border-width: 1px;
+    width: 150px;
+    height: 50px;
+    background-color: orange;
+    padding-left: 10px;
+    line-height: 40px;
+}
+
+.link {
+    border-color: black;
+    border-style: dashed;
+    border-width: 1px;
+    width: 500px;
+    height: 50px;
+    background-color: orange;
+    text-align: center;
+    line-height: 40px;
+}
+
+.login {
+    border-color: black;
+    border-style: dashed;
+    border-width: 1px;
+    width: 150px;
+    height: 50px;
+    background-color: orange;
+    text-align: right;
+    padding-right: 10px;
+    line-height: 40px;
+}
+
+.top {
+    background-color: blue;
+    height: 400px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.show {
+    background-color: plum;
+    width: 700px;
+    height: 300px;
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+}
+
+.bg-white {
+    background-color: white;
+    width: auto;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.description-left {
+    background-color: rgb(26, 151, 240);
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+    width: 700px;
+    height: 400px;
+}
+
+.image-right {
+    background-color: pink;
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+    width: 300px;
+    height: 400px;
+
+}
+
+.bg-grey {
+    background-color: lightgrey;
+    width: auto;
+    height: 500px;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-left {
+    background-color: pink;
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+    width: 300px;
+    height: 400px;
+}
+
+.description-right {
+    background-color: rgb(26, 151, 240);
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+    width: 700px;
+    height: 400px;
+}
+
+.summary {
+    background-color: lightgrey;
+    height: 500px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.big-box {
+    width: 700px;
+    height: 400px;
+    background-color: green;
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+}
+
+.footer-top {
+    background-color: rgb(42, 59, 59);
+    height: 600px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-lists-menu {
+    background-color: plum;
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+    width: 300px;
+    height: 500px;
+}
+
+.footer-details {
+    background-color: rgb(42, 59, 59);
+    height: 150px;
+    width: auto;
+    border-top: 2px;
+    border-color: white;
+}
+
+.footer-lists-details {
+    background-color: rgb(30, 210, 234);
+    border-color: white;
+    border-width: 1px;
+    border-style: dashed;
+    width: 700px;
+    height: 500px;
+    display: flex;
+}
+
+.col {
+    width: 175px;
+    height: 500px;
+    border: 1px;
+    border-color: white;
+    border-style: dashed;
+
+}
+
+.menu-bottom {
+    width: 1005px;
+    height: 50px;
+    background-color: aquamarine;
+    border: 2px;
+    border-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.piccole-icone {
+    background-color: pink;
+    border: 1px;
+    width: 100px;
+    height: 25px;
+    border-color: black;
+    border-style: dashed;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+
+.gris {
+    background-color: rgb(42, 59, 59);
+    width: auto;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
